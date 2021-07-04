@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+    <style>
+        body{
+            background-color:rgb(222,204,156);
+        }
+        
+        h1{
+            color:rgb(200,0,156);
+        }
+        
+        p{
+            color:rgb(199, 30, 0);
+        }
+    </style>
+        
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/retriever.png" alt="dogs are really cute" width="250">
+        
+        <p>The <em>Dog</em> is awesome because <strong>Dogs are known as most trustworthy animals, we have seen it in many occasion</strong>.</p>
+        
+    </body>
+</html>
